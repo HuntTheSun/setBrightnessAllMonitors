@@ -1,4 +1,4 @@
-### DISCLAIMER: This is my first script, I dont know anything about scripting
+### DISCLAIMER: This is my second script, I dont know anything about scripting
 ### This might not work on your system or have horrendous programming flaws  
 
 ## setBrightnessAllMonitors 
